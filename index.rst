@@ -23,12 +23,6 @@ The main documentation for the site is organized into the following sections:
    docs/2.query-language/1.data-types/index
    docs/2.query-language/2.functions-and-operators/index
    docs/2.query-language/3.language-structure/index
-   docs/2.query-language/3.language-structure/literal-values/index
-   docs/2.query-language/4.statement-syntax/1.data-definition-statements/index
-   docs/2.query-language/4.statement-syntax/2.data-query-and-manipulation-statements/index
-   docs/2.query-language/4.statement-syntax/3.utility-statements/index
-   docs/2.query-language/4.statement-syntax/34.graph-algorithms/index
-
 
 .. toctree::
    :maxdepth: 1
