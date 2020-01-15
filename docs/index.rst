@@ -8,15 +8,15 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Overview
+   :caption: Overview
    :name: sec-overview
 
    README
 
 .. toctree::
    :maxdepth: 1
-   :caption: Query language
-   :name: sec-query
+   :caption: Query language
+   :name: sec-query
 
    2.query-language/1.data-types/index
    2.query-language/2.functions-and-operators/index
