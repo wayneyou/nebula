@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# bumo documentation build configuration file, created by
+# Nebula Graph documentation build configuration file, created by
 # sphinx-quickstart on Thu Aug  2 09:16:49 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -59,8 +59,8 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'bumo'
-copyright = '2018, Bumo'
+project = 'nebula'
+copyright = '2020, Nebula Graph'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -192,7 +192,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'bumodoc'
+htmlhelp_basename = 'nebuladoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'bumo.tex', 'bumo Documentation',
+  ('index', 'nebula.tex', 'Nebula Documentation',
    'wilson', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'bumo', 'bumo Documentation',
+    ('index', 'nebula', 'nebula Documentation',
      ['wilson'], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'bumo', 'bumo Documentation',
-   'wilson', 'bumo', 'One line description of project.',
+  ('index', 'nebula', 'nebula Documentation',
+   'wilson', 'nebula', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -293,13 +293,13 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'bumo'
+epub_title = 'nebula'
 epub_author = 'wilson'
 epub_publisher = 'wilson'
-epub_copyright = '2018, wilson'
+epub_copyright = '2020, wilson'
 
 # The basename for the epub file. It defaults to the project name.
-#epub_basename = 'bumo'
+#epub_basename = 'nebula'
 
 # The HTML theme for the epub output. Since the default themes are not optimized
 # for small screen space, using the same theme for HTML and epub output is
