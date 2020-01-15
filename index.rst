@@ -11,18 +11,18 @@ The main documentation for the site is organized into the following sections:
    :caption: Overview
    :name: sec-overview
 
-   docs/1.concepts/1.data-model/index
-   docs/1.concepts/2.nGQL-overview/index
+   docs/1.overview/1.concepts//index
+   docs/1.overview/1.concepts/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
    :name: sec-start
-   
-   docs/2.quick-start/1.get-started/index
-   docs/2.quick-start/2.FAQ/index
-   docs/2.quick-start/3.supported-clients/index
-   docs/2.quick-start/4.import-csv-file/index
+
+   docs/1.overview/2.quick-start/index
+   docs/1.overview/2.quick-start/index
+   docs/1.overview/2.quick-start/index
+   docs/1.overview/2.quick-start/index
 
 
 .. toctree::
