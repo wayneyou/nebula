@@ -16,7 +16,7 @@ The main documentation for the site is organized into the following sections:
    docs/1.overview/3.design-and-architecture/index
   
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Query language
    :name: sec-query
 
