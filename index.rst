@@ -13,7 +13,7 @@ The main documentation for the site is organized into the following sections:
 
    docs/1.overview/1.concepts/index
    docs/1.overview/2.quick-start/index
-   docs/1.overview/design-and-architecture/index
+   docs/1.overview/3.design-and-architecture/index
   
 .. toctree::
    :maxdepth: 1
