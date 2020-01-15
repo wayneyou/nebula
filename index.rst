@@ -11,20 +11,9 @@ The main documentation for the site is organized into the following sections:
    :caption: Overview
    :name: sec-overview
 
-   docs/1.overview/1.concepts//index
    docs/1.overview/1.concepts/index
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Getting Started
-   :name: sec-start
-
    docs/1.overview/2.quick-start/index
-   docs/1.overview/2.quick-start/index
-   docs/1.overview/2.quick-start/index
-   docs/1.overview/2.quick-start/index
-
-
+  
 .. toctree::
    :maxdepth: 1
    :caption: Query language
