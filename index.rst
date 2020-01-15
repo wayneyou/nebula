@@ -11,7 +11,13 @@ The main documentation for the site is organized into the following sections:
    :caption: Overview
    :name: sec-overview
 
-   README
+   docs/1.concepts/1.data-model
+   docs/1.concepts/2.nGQL-overview
+   docs/2.quick-start/1.get-started
+   docs/2.quick-start/2.FAQ
+   docs/2.quick-start/3.supported-clients
+   docs/2.quick-start/4.import-csv-file
+
 
 .. toctree::
    :maxdepth: 1
