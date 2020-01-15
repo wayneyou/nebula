@@ -13,6 +13,7 @@ The main documentation for the site is organized into the following sections:
 
    docs/1.overview/1.concepts/index
    docs/1.overview/2.quick-start/index
+   docs/1.overview/design-and-architecture/index
   
 .. toctree::
    :maxdepth: 1
@@ -21,6 +22,25 @@ The main documentation for the site is organized into the following sections:
 
    docs/2.query-language/1.data-types/index
    docs/2.query-language/2.functions-and-operators/index
+   docs/2.query-language/3.language-structure/index
+   docs/2.query-language/3.language-structure/literal-values/index
+   docs/2.query-language/4.statement-syntax/1.data-definition-statements/index
+   docs/2.query-language/4.statement-syntax/2.data-query-and-manipulation-statements/index
+   docs/2.query-language/4.statement-syntax/3.utility-statements/index
+   docs/2.query-language/4.statement-syntax/34.graph-algorithms/index
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Build and Administration
+   :name: sec-build-and-administration
+
+   docs/3.build-develop-and-administration/1.build/index
+   docs/3.build-develop-and-administration/2.develop-and-interface/index
+   docs/3.build-develop-and-administration/3.deploy-and-administrations/index
+   
+   
+
    
 
 
