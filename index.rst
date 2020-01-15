@@ -23,6 +23,7 @@ The main documentation for the site is organized into the following sections:
    docs/2.query-language/1.data-types/index
    docs/2.query-language/2.functions-and-operators/index
    docs/2.query-language/3.language-structure/index
+   docs/2.query-language/3.language-structure/literal-values/index
 
 .. toctree::
    :maxdepth: 1
