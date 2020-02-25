@@ -4,6 +4,8 @@ The built-in data types supported by **Nebula Graph** are as follows:
 
 ## Numeric Types
 
+[test](docs/2.query-language/2.functions-and-operators)
+
 ### Integer
 
 An integer is declared with keyword `int` , which is 64-bit *signed*, the range is [-9223372036854775808, 9223372036854775807], and there is no overflow in int64-based calculation. Integer constants support multiple formats:
