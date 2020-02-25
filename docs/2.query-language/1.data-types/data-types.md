@@ -2,6 +2,8 @@
 
 The built-in data types supported by **Nebula Graph** are as follows:
 
+[test](../../1.overview/2.quick-start/FAQ.md)
+
 ## Numeric Types
 
 [test](2.functions-and-operators/bitwise-operators.md)
