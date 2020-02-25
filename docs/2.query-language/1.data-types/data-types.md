@@ -4,7 +4,7 @@ The built-in data types supported by **Nebula Graph** are as follows:
 
 ## Numeric Types
 
-[test](docs/2.query-language/2.functions-and-operators)
+[test](docs/2.query-language/2.functions-and-operators/bitwise-operators.md)
 
 ### Integer
 
